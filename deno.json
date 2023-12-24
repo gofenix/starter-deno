@@ -23,7 +23,9 @@
     "@tailwindcss/typography": "npm:@tailwindcss/typography",
     "$std/": "https://deno.land/std@0.208.0/",
     "daisyui": "npm:daisyui@latest",
-    "dayjs": "npm:dayjs"
+    "dayjs": "npm:dayjs",
+    "openai": "https://deno.land/x/openai@v4.20.1/mod.ts",
+    "openai/": "https://deno.land/x/openai@v4.20.1/"
   },
   "compilerOptions": { "jsx": "react-jsx", "jsxImportSource": "preact" },
   "nodeModulesDir": true
